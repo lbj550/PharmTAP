@@ -1,0 +1,20 @@
+name: pharmtap
+channels:
+  - pytorch
+  - pyg
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - tqdm
+  - joblib
+  - rdkit
+  - pytorch
+  - pyg
+  - pip
